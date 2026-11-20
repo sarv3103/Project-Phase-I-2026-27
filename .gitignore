@@ -2,7 +2,7 @@
 .env
 .env.*
 *.env
-*.csv
+*key*.csv
 New folder/
 scratch/
 node_modules/
@@ -14,3 +14,6 @@ venv/
 .venv/
 .vscode/
 .idea/
+
+# Allow project datasets
+!ml/data/*.csv

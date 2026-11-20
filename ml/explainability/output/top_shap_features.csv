@@ -1,0 +1,16 @@
+feature,mean_abs_shap
+cat__Fault_Policy Holder,1.223977
+cat__BasePolicy_Liability,0.70048743
+cat__Fault_Third Party,0.23932764
+cat__PolicyType_Sedan - Liability,0.20945649
+num__Year,0.19648686
+cat__AddressChange_Claim_2 to 3 years,0.1583169
+num__RepNumber,0.13454257
+cat__PolicyType_Sedan - Collision,0.12430353
+cat__MonthClaimed_Nov,0.088421926
+num__WeekOfMonth,0.07957927
+num__WeekOfMonthClaimed,0.07240679
+num__DriverRating,0.06796187
+cat__Sex_Female,0.06627179
+cat__Make_Pontiac,0.06541187
+cat__VehiclePrice_20000 to 29000,0.06441286
